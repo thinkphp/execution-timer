@@ -1,0 +1,5 @@
+Enter two numbers to find their GCD:
+Enter first number: Enter second number: 
+GCD of 10 and 3 is: 1
+
+Execution Time: 0.000337 seconds
